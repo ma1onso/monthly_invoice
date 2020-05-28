@@ -4,3 +4,5 @@ No sufras más, he venido a liberarte del agite que signfica aplicar una regla d
 ## Instalación y uso
 1. Descarga o clona el repositorio.
 1. Ejecuta el script monthly_invoice.py, `python monthly_invoice.py`
+
+Hecho con ❤️ para @Mosorio9867 y @Cromeror
